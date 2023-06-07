@@ -11,3 +11,7 @@ Compilation of Excel and SQL data analysis related projects and challenges where
 ## [SQL - Covid19 Analysis](https://github.com/Badbatunde/Data_Analysis_Projects/tree/main/SQL%20-%20Covid19%20Analysis)
 + data analysis for Covid 19 cases, deaths and vaccinations accross continents
 + entails exploration and analysis of the datasets with SQL
+
+## [SQL - Housing Data Cleaning Project](https://github.com/Badbatunde/Data_Analysis_Projects/tree/main/SQL%20-%20Data%20Cleaning%20Project)
++  data analysis for a housing datasets
++  involves cleaning of the data using SQL queries
