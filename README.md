@@ -14,7 +14,7 @@ Data analysis projects involving Excel and SQL combine the power of spreadsheet 
 ## [Excel - Bike Sales](https://github.com/Badbatunde/Data_Analysis_Projects/tree/main/Excel%20-%20Bike%20Sales)
 + this involves data cleaning, exploration, preparation, analysis and interactive visualization of bike sales in Europe, North America and Pacific using MS Excel
 
-## [SQL - 30 Questions](https://github.com/Badbatunde/Data_Analysis_Projects/blob/main/ssdb.sql)
+## [SQL - 30 Questions](https://github.com/Badbatunde/Data_Analysis_Projects/tree/main/SQL%20-%2030%20Questions)
 + challeges your SQL knowledge with these SQL questions
 + Skillshare Course: [30 Simple SQL Interview Queries](https://www.skillshare.com/classes/SQL-Interview-30-Simple-SQL-Interview-Queries-in-2019/809081836)
 
