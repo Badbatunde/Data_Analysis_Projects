@@ -11,7 +11,7 @@ Data analysis projects involving Excel and SQL combine the power of spreadsheet 
     + SQL Server
     + Microsoft Excel
 
-## [Excel - Dataset Project](https://github.com/Badbatunde/Data_Analysis_Projects/blob/main/Excel%20Project%20Dataset.xlsx)
+## [Excel - Bike Sales](https://github.com/Badbatunde/Data_Analysis_Projects/tree/main/Excel%20-%20Bike%20Sales)
 + this involves data cleaning, exploration, preparation, analysis and interactive visualization of bike sales in Europe, North America and Pacific using MS Excel
 
 ## [SQL - 30 Questions](https://github.com/Badbatunde/Data_Analysis_Projects/blob/main/ssdb.sql)
