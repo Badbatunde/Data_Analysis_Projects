@@ -5,9 +5,7 @@ Compilation of Excel and SQL data analysis related projects and challenges where
 + SQL Languages
     + SQL
     + PostgreSQL
-
-+ Excel
-
+   
 + Tools
     + pgAdmin 4
     + SQL Server
