@@ -5,6 +5,7 @@ Compilation of Excel and SQL data analysis related projects and challenges where
 + SQL Languages
     + SQL
     + PostgreSQL
+
 + Excel
 
 ## [Excel - Dataset Project](https://github.com/Badbatunde/Data_Analysis_Projects/blob/main/Excel%20Project%20Dataset.xlsx)
