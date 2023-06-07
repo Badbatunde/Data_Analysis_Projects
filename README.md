@@ -1,5 +1,5 @@
 # Data Analysis Projects
-Compilation of Excel and SQL data analysis related projects and challenges where I practice those skills.
+Data analysis projects involving Excel and SQL combine the power of spreadsheet software like Excel with the querying and manipulation capabilities of SQL to extract insights and make informed decisions from datasets.
 
 ### Built with:
 + SQL Languages
