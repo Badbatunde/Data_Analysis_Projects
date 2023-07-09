@@ -17,6 +17,9 @@ Data analysis projects involving Excel and SQL combine the power of spreadsheet 
 ## [Excel - Bike Sales](https://github.com/Badbatunde/Data_Analysis_Projects/tree/main/Excel%20-%20Bike%20Sales)
 + this involves data cleaning, exploration, preparation, analysis and interactive visualization of bike sales in Europe, North America and Pacific using MS Excel
 
+## [Power BI - Project](https://github.com/Badbatunde/Data_Analysis_Projects/tree/main/Power%20BI%20-%20Project)
++ this Power BI visualization contains sales returns in months and days of the week, as well as the profit trend by month and quantity ordered by product which can provide relevant insights such as, sales return by month and dow, profit trend, correlation between sales and returns, and so on.
+
 ## [SQL - 30 Questions](https://github.com/Badbatunde/Data_Analysis_Projects/tree/main/SQL%20-%2030%20Questions)
 + challeges your SQL knowledge with these SQL questions
 + Skillshare Course: [30 Simple SQL Interview Queries](https://www.skillshare.com/classes/SQL-Interview-30-Simple-SQL-Interview-Queries-in-2019/809081836)
