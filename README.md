@@ -2,14 +2,17 @@
 Data analysis projects involving Excel and SQL combine the power of spreadsheet software like Excel with the querying and manipulation capabilities of SQL to extract insights and make informed decisions from datasets.
 
 ### Built with:
-+ SQL Languages
++ Languages
     + SQL
     + PostgreSQL
+    + DAX
+    + Power Query
    
 + Tools
     + pgAdmin 4
     + SQL Server
     + Microsoft Excel
+    + Microsoft Power BI
 
 ## [Excel - Bike Sales](https://github.com/Badbatunde/Data_Analysis_Projects/tree/main/Excel%20-%20Bike%20Sales)
 + this involves data cleaning, exploration, preparation, analysis and interactive visualization of bike sales in Europe, North America and Pacific using MS Excel
